@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IbrahimDaily
-- 👀 I’m interested in 
-- 🌱 I’m currently learning python, JavaScript, Lua
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web development, game development
+- 🌱 I’m currently learning python and lua
+- 💞️ I’m looking to collaborate on ... Roblox Studio
 - 📫 Reach me at mail: ssibrahimplus07@gmail.com
 
 <!---
